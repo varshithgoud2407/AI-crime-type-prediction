@@ -1,0 +1,39 @@
+Artificial Intelligence Crime: An Overview of Malicious Use and Abuse of AI
+
+IEEE Access and Transaction on Machine Learning,Volume:10,Issue Date:18.July.2022
+
+Articial intelligence, articial intelligence typology, computer crime, malicious articial
+intelligence, security, social implications of technology.
+
+
+Artificial_Intelligence_Crime
+
+
+artificial_intelligence_crime
+
+
+
+0.Social Engineering, 
+1.Misinformation,
+2.Hacking, 
+3.Autonomous weapon systems
+
+
+members
+---------
+
+
+FID	
+url	
+length_url	
+length_hostname	 
+Source_IP	 
+Source_Port	 
+Destination_IP	 
+Destination_Port
+Prediction
+
+
+prediction_Of_crime_type
+
+
